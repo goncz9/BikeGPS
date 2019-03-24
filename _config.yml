@@ -1,0 +1,16 @@
+# Site settings
+title: Bike GPS - Ride tracker app
+email: bikegps@goncz.app
+author: Robert Göncz
+description:
+url: https://bikegps.goncz.app
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+exclude:
+  - readme_files
+  - README.md
+  - CNAME
